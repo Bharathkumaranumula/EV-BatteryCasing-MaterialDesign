@@ -2,6 +2,7 @@
 
 Welcome to the repository of EV Battery Casing — A Material Science Study, an exploration of materials engineering for safer, more efficient electric vehicle (EV) battery enclosures. This study focuses on the critical role of casing in thermal management, structural integrity, crash protection, and electrical insulation.
 
+
 🚀 Project Overview
 
 The EV Battery Casing is a vital component that:
@@ -16,6 +17,7 @@ The EV Battery Casing is a vital component that:
 
 Our material science analysis compares different casing materials with respect to these goals.
 
+
 🧠 Key Topics
 
 Material requirements: Lightweight, stiff, fire-resistant, corrosion-resistant, crash-protective, cost-effective
@@ -28,16 +30,20 @@ High-strength steel — Superior impact resistance, durable, cost-effective
 
 Carbon Fiber Reinforced Composites (CFRC) — High strength-to-weight ratio, corrosion-resistant, flexible in design
 
+
 🛠️ Technical Highlights
 
-Property	Al A390 (Aluminum)	High Strength Steel	CFRC
-Density (g/cm³)	2.72	7.85	~0.92
-Young’s Modulus (GPa)	~70	190–210	5.8–6.5
-Tensile Strength (MPa)	450–520	500–1200	~295
-Corrosion resistance	✅	❌	✅
-Fire resistance	✅	✅	✅
-Ease of manufacturing	Easy	Moderate	Complex
-Cost	Moderate	Low	High
+| 🏷️ Property               | ⚡ Al A390 (Aluminum) | 🛡️ High Strength Steel | 🚀 CFRC (Carbon Fiber Reinforced Composite) |
+|---------------------------|---------------------|-----------------------|---------------------------------------------|
+| **Density (g/cm³)**        | 2.72                | 7.85                  | ~0.92                                      |
+| **Young’s Modulus (GPa)**  | ~70                 | 190–210               | 5.8–6.5                                    |
+| **Tensile Strength (MPa)** | 450–520             | 500–1200              | ~295                                       |
+| **Corrosion resistance**   | ✅                   | ❌                     | ✅                                         |
+| **Fire resistance**        | ✅                   | ✅                     | ✅                                         |
+| **Ease of manufacturing**  | Easy                | Moderate               | Complex                                    |
+| **Cost**                   | Moderate            | Low                    | High                                       |
+
+
 
 🔬 Microstructure and Material Behavior
 
@@ -47,6 +53,7 @@ Steel: High impact resistance, heat treatments enhance performance
 
 CFRC: Tailored microstructure offers superior strength-to-weight properties
 
+
 🔮 Future Directions
 
 1.Incorporation of hybrid materials (e.g., CFRC + metals) for enhanced multifunctionality
@@ -55,7 +62,9 @@ CFRC: Tailored microstructure offers superior strength-to-weight properties
 
 3.Integration of casing design into overall EV crash safety architecture
 
+
 📚 References
+
 📄 Based on studies including:
 
 Comparative Material Selection of Battery Pack Casing
@@ -63,6 +72,7 @@ Comparative Material Selection of Battery Pack Casing
 EMI Shielding & Thermal Management of Sandwich-Structured CFRC
 
 Material Microstructure Studies
+
 
 🤝 Contributions
 
